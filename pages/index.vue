@@ -3,18 +3,18 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        personal-site
+        Michael J. Garten
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        Full stack web developer
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://www.linkedin.com/in/mjgarten"
           target="_blank"
-          class="button--green">Documentation</a>
+          class="button--green">LinkedIn</a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/mjgartendev"
           target="_blank"
           class="button--grey">GitHub</a>
       </div>
@@ -45,14 +45,14 @@ export default {
   font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 80px;
   color: #35495e;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 42px;
+  font-size: 32px;
   color: #526488;
   word-spacing: 5px;
   padding-bottom: 15px;
